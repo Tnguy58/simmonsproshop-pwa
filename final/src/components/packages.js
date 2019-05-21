@@ -30,7 +30,7 @@ export default class Packages extends React.Component {
                             <PackageComponent package="BEGINNER'S Hook" ball="Rhino or Boost" value="197.95" price="182.95" id="green_background"/><br />
                         </span>
                     </div>
-                    <div className="col-md-12 col-lg-6"><img src={require("./img/Bowling_Bundle.jpg")} className="img-fluid" alt="Packages" style={{boxShadow: '5px 5px 5px grey', borderRadius: '25px'}}/></div>
+                    <div className="col-md-12 col-lg-6"><img src={require("./img-min/Bowling_Bundle.jpg")} className="img-fluid" alt="Packages" style={{boxShadow: '5px 5px 5px grey', borderRadius: '25px'}}/></div>
                 </div>
             </div>
         );

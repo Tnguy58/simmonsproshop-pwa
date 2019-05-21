@@ -7,7 +7,7 @@ export default class Footer extends React.Component {
             <footer>
                 <div className="row">
                     <div className="col-md-4 text-center">
-                        <img src={require("./img/LOGO_YELLOW.png")} width="281.25" height="75" alt="logo" />
+                        <img src={require("./img-min/LOGO_YELLOW.png")} width="281.25" height="75" alt="logo" />
                         <hr className="light" />
                         <p><i className="fas fa-phone"></i> (773) 267-0926</p>
                         <p>2147 Irving Park Rd.</p>

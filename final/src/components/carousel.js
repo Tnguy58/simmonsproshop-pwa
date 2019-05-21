@@ -13,7 +13,7 @@ class Carousel extends React.Component {
                 </ul>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src={require("./img/Bowling_Pro_Shop_Helping_Customer.jpg")} style={{opacity: "0.3"}} alt="Helping customer" />
+                        <img src={require("./img-min/Bowling_Pro_Shop_Helping_Customer_2.jpg")} style={{opacity: "0.3"}} alt="Helping customer" />
                         <div class="carousel-caption">
                             <span>
                                 <h1>
@@ -27,25 +27,25 @@ class Carousel extends React.Component {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require("./img/Measuring_Bowling_Ball.jpg")} style={{opacity: "0.5"}} alt="Measuring Bowling Ball"/>
+                        <img src={require("./img-min/Measuring_Bowling_Ball.jpg")} style={{opacity: "0.5"}} alt="Measuring Bowling Ball"/>
                         <div class="carousel-caption">
                             <h1><font color="#303030">Expert Precision</font></h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require("./img/Bowling_Pro_Shop_Waiting_Area.jpg")} style={{opacity: "0.5"}} alt="Bowling Pro Shop Waiting Area"/>
+                        <img src={require("./img-min/Bowling_Pro_Shop_Waiting_Area.jpg")} style={{opacity: "0.5"}} alt="Bowling Pro Shop Waiting Area"/>
                         <div class="carousel-caption">
                             <h1><font color="#303030">Family-Friendly Ambience</font></h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require("./img/Simmons_Bowling_Pro_Shop_Sign.jpg")} style={{opacity: "0.5"}} alt="Simmons Bowling Pro Shop Sign"/>
+                        <img src={require("./img-min/Simmons_Bowling_Pro_Shop_Sign.jpg")} style={{opacity: "0.5"}} alt="Simmons Bowling Pro Shop Sign"/>
                         <div class="carousel-caption">
                             <h1><font color="#303030">Since 1976</font></h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src={require("./img/Bowling_Accessories.jpg")} style={{opacity: "0.5"}} alt="Bowling Accessories"/>
+                        <img src={require("./img-min/Bowling_Accessories.jpg")} style={{opacity: "0.5"}} alt="Bowling Accessories"/>
                         <div class="carousel-caption">
                             <h1><font color="#303030">Bowling Accessories</font></h1>
                         </div>

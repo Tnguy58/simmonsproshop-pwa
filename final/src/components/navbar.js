@@ -10,8 +10,12 @@ class Navbar extends React.Component {
                     
                     <a class="navbar-brand" href="index.html"><img id="main_logo" src={logo} width="375" height="100" alt="logo" /></a>
                     
-                    <p id="heading_info">2147 Irving Park Rd. &bull; Chicago, IL <br /> &#9742; (773) 267-0926 <br/> {is_Open()} </p>
-                    
+                    <center>
+                        <p id="heading_info">
+                        2147 Irving Park Rd. &bull; Chicago, IL <br /> 
+                        &#9742; (773) 267-0926 <br/> 
+                        {is_Open()} </p>
+                    </center>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                         <span class="navbar-toggler-icon"></span>
                     </button>
