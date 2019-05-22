@@ -10,7 +10,7 @@ SimmonsProShop.com is a ReactJS progressive web app that I made for Simmons Bowl
 Simmons Pro Shop, formerly known as Simmons Sporting Goods, has been serving the North Center area since 1946. It was a pleasure to capture the history of the shop throughout its 70+ year run. 
 
 ## Motivation
-To bring Simmons Pro Shop into the 21st century by creating a modern / progressive web application and to learn more about the sport of bowling. 
+To get experience building a progressive web app while also learning more about the sport of bowling. 
 
 ## Build Status
 Completed and working 100% ✅
