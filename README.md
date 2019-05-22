@@ -34,7 +34,7 @@ Compiler / Bundler
 
 Build-Tool / interpreter
 - Gulp
-- Node
+- NodeJS
 
 Amazon Web Services (AWS) 
 - Route 53 🌎
@@ -73,7 +73,7 @@ Software Used
 ## How To Use
 #### Step 1. Download Project Folder
 
-Download the project folder and make sure you have [Node](https://nodejs.org/en/) installed. 
+Download the project folder and make sure you have [NodeJS](https://nodejs.org/en/) installed. 
 
 #### Step 2. Install Dependencies
 
