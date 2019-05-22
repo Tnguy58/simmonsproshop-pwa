@@ -21,10 +21,12 @@ Front-End
 - ReactJS
 - HTML5
 - JSX
+- Javascript (ES6)
+
+Styling
 - CSS
 - SASS
 - Bootstrap
-- Javascript (ES6)
 
 Compiler / Bundler
 - Babel
