@@ -62,8 +62,8 @@ Software Used
   - add Javscript code to create dynamic content
   - reduce redundant code by reusing components
 - Amazon Web Services was used to:
-  - store the files on the cloud 
   - host the web app
+  - store the files on the cloud 
   - provide a secure / encrypted connection between broswer and server
 
 ## Features
