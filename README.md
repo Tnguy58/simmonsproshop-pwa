@@ -5,7 +5,7 @@
 
 ## Introduction
 
-SimmonsProShop.com is a progressive web app (PWA) that I made for Simmons Bowling Pro Shop, a small family shop located in North Center, IL. The PWA conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of taking all of the pictures of in and around the shop and writing all of the descriptions of their bowling services with the guidance of Brian, the owner, and his acquaintances. 
+SimmonsProShop.com is a progressive web app that I made for Simmons Bowling Pro Shop, a small family shop located in North Center, IL. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of taking all of the pictures of in and around the shop and writing all of the descriptions of their bowling services with the guidance of Brian, the owner, and his acquaintances. 
 
 Simmons Pro Shop, formerly known as Simmons Sporting Goods, has been serving the North Center area since 1946. It was a pleasure to capture the history of the shop throughout its 70+ year run. 
 
@@ -17,35 +17,39 @@ Completed and working 100% ✅
 
 ## Technologies Used
 
-Front-End
-
-- React
-- HTML 5 
+HTML
 - JSX
-- CSS 
+- HTML5
+
+CSS
+- CSS3
 - SASS
 - Bootstrap 4
+
+Javascript
+- Node
+- React
+- jQuery
 - Javascript (ES6)
 
-Javascript Compiler / Bundler
-- Babel 
+Build Tools
 - Webpack
-
-Task Runner / Interpreter 
 - Gulp
-- Node.js
 
-Application Programming Interface
+Compiler
+- Babel
+
+API
 - Maps Static
 
-## Amazon Web Services (AWS) 
+Amazon Web Services (AWS) 
 - Route 53 🌎
 - CloudFront ☁️
 - Certificate Manager 
 - Simple Cloud Storage Solution (S3) 
 - Identity and Access Management (IAM)
 
-## Software Used
+Software Used
 - Microsoft Visual Studio Code
 - Adobe Lightroom Classic CC
 - Adobe Photoshop CC 2018
