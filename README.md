@@ -66,9 +66,8 @@ Software Used
   - store the files on the cloud 
   - provide a secure / encrypted connection between broswer and server
 
-## Features
-- Photo Gallery 📷
-- Google Map Location 
+## Notable Feature
+There are two seasons in bowling, Fall league season and Summer league season. Fall season runs from September to April and Summer Season runs from May to August.
 
 ## How To Use
 #### Step 1. Download Project Folder
