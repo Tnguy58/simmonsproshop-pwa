@@ -5,7 +5,7 @@
 
 ## Introduction
 
-SimmonsProShop.com is a progressive web app that I made for Simmons Bowling Pro Shop, a small family shop located in North Center, IL. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of taking all of the pictures of in and around the shop and writing all of the descriptions of their bowling services with the guidance of Brian, the owner, and his acquaintances. 
+SimmonsProShop.com is a ReactJS progressive web app that I made for Simmons Bowling Pro Shop, a small family shop located in North Center, IL. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of taking all of the pictures of in and around the shop and writing all of the descriptions of their bowling services with the guidance of Brian, the owner, and his acquaintances. 
 
 Simmons Pro Shop, formerly known as Simmons Sporting Goods, has been serving the North Center area since 1946. It was a pleasure to capture the history of the shop throughout its 70+ year run. 
 
@@ -56,14 +56,14 @@ Software Used
 
 ## Progressive Web Development Practices
 - The Gulp build-tool was used to:
-  - watch and automatically perform unit testing by constantly checking for syntax errors
-  - decreases the number of HTTP requests the broswer has to make with the server by concatenating / minifying CSS and Javascript files
-  - optimize / reduce sizes of image files by removing their metadata.
+  - remove image metadata
+  - concatenate / minify CSS and Javascript files
+  - automatically perform unit testing and constantly check for syntax errors
 - The Bootstrap framework was used to:
-  - make the web app responsive, mobile-first
+  - add responsiveness
   - create modern components such as a carousel, navbar, etc
 - The SASS styling language was used to:
-  - nest common CSS components together to reduce redundant code
+  - nest common CSS components together 
 - The React Javascript library was used to:
   - add Javscript code to create dynamic content
   - reduce redundant code by reusing components
@@ -104,7 +104,7 @@ npm run start
 <img width="1250" alt="Screen Shot 2019-04-22 at 10 29 27 AM" src="https://user-images.githubusercontent.com/25943238/56508410-ccf0c700-64e9-11e9-9c59-b70a28248e28.png">
 
 ## Credits
-I'd like to thank Brian Simmons, the owner of Simmons Bowling Pro Shop, for the opportunity for me to create my first  progressive web app for his business.
+I'd like to thank Brian Simmons, the owner of Simmons Bowling Pro Shop, for letting me create a progressive web app for his bowling shop.
 
 ## License  & Copyright
 © Timothy Nguyen 2019
