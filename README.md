@@ -17,27 +17,22 @@ Completed and working 100% ✅
 
 ## Technologies Used
 
-HTML
-- JSX
+Front-End
+- ReactJS
 - HTML5
-
-CSS
-- CSS3
+- JSX
+- CSS
 - SASS
-- Bootstrap 4
-
-Javascript
-- Node
-- React
-- jQuery
+- Bootstrap
 - Javascript (ES6)
 
-Build Tools
-- Webpack
-- Gulp
-
-Compiler
+Compiler / Bundler
 - Babel
+- Webpack
+
+Build-Tool / interpreter
+- Gulp
+- Node
 
 API
 - Maps Static
