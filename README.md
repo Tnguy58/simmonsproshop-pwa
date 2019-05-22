@@ -54,7 +54,7 @@ Software Used
   - concatenate / minify CSS and Javascript files
   - automatically perform unit testing and constantly check for syntax errors
 - The Bootstrap framework was used to:
-  - add responsiveness
+  - add responsiveness / app optimized to be viewed on smart phone, tablet and desktop
   - create modern components such as a carousel, navbar, etc
 - The SASS styling language was used to:
   - nest common CSS components together 
