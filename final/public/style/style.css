@@ -89,4 +89,77 @@ footer {
   color: #d5d5d5;
   padding-top: 2rem;
 }
+
+/*---Media Queries --*/
+@media (max-width: 1250px) {
+  #heading_info {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .carousel-caption {
+    top: 50%;
+  }
+  .carousel-caption h1 {
+    font-size: 350%;
+  }
+  .carousel-caption h3 {
+    font-size: 140%;
+    font-weight: 400;
+    padding-bottom: 2rem;
+    text-shadow: 0px 0px 0px;
+  }
+  .carousel-caption .btn {
+    font-size: 95%;
+    padding: 8px 14px;
+  }
+  .display-4 {
+    font-size: 200%;
+  }
+  #main_logo {
+    width: 337.5px;
+    height: 90px;
+  }
+}
+
+@media (max-width: 576px) {
+  #heading_info {
+    display: initial;
+  }
+  .carousel-caption {
+    top: 50%;
+  }
+  .carousel-caption h1 {
+    font-size: 250%;
+  }
+  .carousel-caption h3 {
+    display: none;
+  }
+  .carousel-caption .btn {
+    font-size: 90%;
+    padding: 4px 8px;
+  }
+  .carousel-indicators {
+    display: none;
+  }
+  .carousel-caption h3 {
+    text-shadow: 0px 0px 0px #303030;
+    padding-bottom: 1rem;
+  }
+  #main_logo {
+    width: 337.5px;
+    height: 90px;
+  }
+}
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
 /*# sourceMappingURL=style.css.map */

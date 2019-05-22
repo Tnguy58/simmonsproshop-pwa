@@ -8,7 +8,7 @@ var gulp = require('gulp'),
 
 var jsFiles = 'js/**/*.js',
     jsDest = 'dist/scripts',
-    cssFiles = 'style/**/*.css',
+    cssFiles = 'style/*.css',
     cssDest = 'dist/style',
     imgDest = '../src/components/img/*';
 
