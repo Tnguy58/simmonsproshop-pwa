@@ -36,9 +36,6 @@ Build-Tool / interpreter
 - Gulp
 - Node
 
-API
-- Maps Static
-
 Amazon Web Services (AWS) 
 - Route 53 🌎
 - CloudFront ☁️
