@@ -5,12 +5,13 @@
 
 ## Introduction
 
-SimmonsProShop.com is a ReactJS progressive web app that I made for Simmons Bowling Pro Shop, a small family shop located in North Center, IL. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of taking all of the pictures of in and around the shop and writing all of the descriptions of their bowling services with the guidance of Brian, the owner, and his acquaintances. 
+www.SimmonsProShop.com is a ReactJS progressive web app that I developed for Simmons Bowling Pro Shop. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of developing the app from scratch, which entails gathering all of the information that will appear on the app such as the various bowling services, the history of the shop, Q&A, etc., taking all of the pictures that appear on the app and handwriting the descriptions of their bowling services with the guidance of Brian (the owner) and his acquaintances. 
 
-Simmons Pro Shop, formerly known as Simmons Sporting Goods, has been serving the North Center area since 1946. It was a pleasure to capture the history of the shop throughout its 70+ year run. 
+## Information about Simmons Bowling Pro Shop
+Simmons Bowling Pro Shop, formerly known as Simmons Sporting Goods, is a bowling pro shop located in North Center, IL. The current owner, Brian Simmons, is the son of the original owner Vern Simmons. Vern founded Simmons Sporting Goods right after the second World War in 1946. Back then Simmons Sporting Goods sold accessories for various sports but they eventually specialized in bowling. Vern's son, Brian, spent a lot of the time at the shop and eventually became great at bowling and he helped his dad run the family shop. In the early 1980's Brian began working full time at the pro shop and has been providing excellent service to the bowling community ever since. 
 
 ## Motivation
-To get experience building a progressive web app while also learning more about the sport of bowling. 
+To gain experience building a progressive web app while also learning more about the sport of bowling. 
 
 ## Build Status
 Completed and working 100% ✅
@@ -18,9 +19,8 @@ Completed and working 100% ✅
 ## Technologies Used
 
 Front-End
-- ReactJS
 - HTML5
-- JSX
+- ReactJS
 - Javascript (ES6)
 
 Styling
@@ -36,15 +36,15 @@ Build-Tool / interpreter
 - Gulp
 - NodeJS
 
-Amazon Web Services (AWS) 
-- Route 53 🌎
-- CloudFront ☁️
-- Certificate Manager 
-- Simple Cloud Storage Solution (S3) 
-- Identity and Access Management (IAM)
+Web Hosting (Amazon Web Service)
+- AWS Route 53 🌎
+- AWS CloudFront ☁️
+- AWS Certificate Manager 
+- AWS Simple Cloud Storage Solution (S3) 
+- AWS Identity and Access Management (IAM)
 
 Software Used
-- Microsoft Visual Studio Code
+- Microsoft Visual Studio Code (VS Code)
 - Adobe Lightroom Classic CC
 - Adobe Photoshop CC 2018
 
