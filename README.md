@@ -4,11 +4,10 @@
 **Version 2.0.0** 
 
 ## Introduction
+www.SimmonsProShop.com is a ReactJS progressive web app that I developed for Simmons (Bowling) Pro Shop. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of developing the app from scratch, which entails gathering all of the information that will appear on the app such as the various bowling services, the history of the shop, Q&A, etc., taking all of the pictures that appear on the app and handwriting the descriptions of their bowling services with the guidance of Brian (the owner) and his acquaintances. 
 
-www.SimmonsProShop.com is a ReactJS progressive web app that I developed for Simmons Bowling Pro Shop. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of developing the app from scratch, which entails gathering all of the information that will appear on the app such as the various bowling services, the history of the shop, Q&A, etc., taking all of the pictures that appear on the app and handwriting the descriptions of their bowling services with the guidance of Brian (the owner) and his acquaintances. 
-
-## Information about Simmons Bowling Pro Shop
-Simmons Bowling Pro Shop, formerly known as Simmons Sporting Goods, is a bowling pro shop located in North Center, IL. The current owner, Brian Simmons, is the son of the original owner Vern Simmons. Vern founded Simmons Sporting Goods right after the second World War in 1946. Back then Simmons Sporting Goods sold accessories for various sports but they eventually specialized in bowling. Vern's son, Brian, spent a lot of the time at the shop and eventually became great at bowling and he helped his dad run the family shop. In the early 1980's Brian began working full time at the pro shop and has been providing excellent service to the bowling community ever since. 
+## Backstory of Simmons Pro Shop
+Simmons Pro Shop, formerly known as Simmons Sporting Goods, is a family-owned bowling pro shop located in North Center, IL. The current owner, Brian Simmons, is the son of the original owner Vern Simmons. Vern founded Simmons Sporting Goods straightaway after the second World War in 1946. Back then Simmons Sporting Goods sold accessories for various sports but they eventually specialized in bowling. Vern's son, Brian, spent a lot of the time at the shop and eventually helped his dad run the family business. In the early 1980's Brian began working full time at the pro shop and has been helping people improve their game of bowling ever since.
 
 ## Motivation
 To gain experience building a progressive web app while also learning more about the sport of bowling. 
@@ -49,10 +48,9 @@ Software Used
 - Adobe Photoshop CC 2018
 
 ## Progressive Web Development Practices
-- The Gulp build-tool was used to:
-  - remove image metadata
-  - concatenate / minify CSS and Javascript files
-  - automatically perform unit testing and constantly check for syntax errors
+Below is a list of the modern tools that were used in the project and their purposes:
+- The Gulp build-tool was used primarily reduce the size of files by 1. removing image metadata 2. concatenating / minifying CSS and Javascript files and 3. automatically perform unit testing and constantly check for syntax errors.
+
 - The Bootstrap framework was used to:
   - add responsiveness / app optimized to be viewed on smart phone, tablet and desktop
   - create modern components such as a carousel, navbar, etc
@@ -66,8 +64,8 @@ Software Used
   - store the files on the cloud 
   - provide a secure / encrypted connection between broswer and server
 
-## Notable Feature
-There are two seasons in bowling, Fall league season and Summer league season. Fall season runs from September to April and Summer Season runs from May to August.
+## Notable Features
+All places where hours appear on the web app are generated dynamically. A Javascript date object is generated when the page is opened up and depending on the current date it determines whether to display the hours for the Summer league season or the Fall league season. Also in the navbar it tells you if the shop is currently open, closed or the next time it's open, depending on the current season, day of the week and time. 
 
 ## How To Use
 #### Step 1. Download Project Folder
@@ -97,7 +95,7 @@ npm run start
 <img width="1250" alt="Screen Shot 2019-04-22 at 10 29 27 AM" src="https://user-images.githubusercontent.com/25943238/56508410-ccf0c700-64e9-11e9-9c59-b70a28248e28.png">
 
 ## Credits
-I'd like to thank Brian Simmons, the owner of Simmons Bowling Pro Shop, for letting me create a progressive web app for his bowling shop.
+I'd like to thank Brian Simmons for helping me get better at bowling and for teaching me a lot more about the sport.
 
 ## License  & Copyright
 © Timothy Nguyen 2019
