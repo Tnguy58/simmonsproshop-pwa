@@ -48,21 +48,10 @@ Software Used
 - Adobe Photoshop CC 2018
 
 ## Progressive Web Development Practices
-Below is a list of the modern tools that were used in the project and their purposes:
+Below is a list of some of the modern development tools that were used and their purposes:
 - The Gulp build-tool was used primarily reduce the size of files by 1. removing image metadata 2. concatenating / minifying CSS and Javascript files and 3. automatically perform unit testing and constantly check for syntax errors.
-
-- The Bootstrap framework was used to:
-  - add responsiveness / app optimized to be viewed on smart phone, tablet and desktop
-  - create modern components such as a carousel, navbar, etc
-- The SASS styling language was used to:
-  - nest common CSS components together 
-- The React Javascript library was used to:
-  - add Javscript code to create dynamic content
-  - reduce redundant code by reusing components
-- Amazon Web Services was used to:
-  - host the web app
-  - store the files on the cloud 
-  - provide a secure / encrypted connection between broswer and server
+- Due to the mobile-first approach of modern web apps, the Bootstrap framework is the tool that most developers use to add responsiveness to their applications. Bootstrap was used to make ever component adapt to various screen sizes.
+- Amazon Web Services was used to host the web app, store the project files on the cloud and provide a secure / encrypted connection between the client and server.
 
 ## Notable Features
 All places where hours appear on the web app are generated dynamically. A Javascript date object is generated when the page is opened up and depending on the current date it determines whether to display the hours for the Summer league season or the Fall league season. Also in the navbar it tells you if the shop is currently open, closed or the next time it's open, depending on the current season, day of the week and time. 
