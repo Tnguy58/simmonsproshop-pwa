@@ -48,8 +48,9 @@ Software Used
 
 ## Progressive Web Development Practices
 Below is a list of some of the modern development tools that were used and their purposes:
-- The Gulp build-tool was used primarily reduce the size of files by 1. removing image metadata 2. concatenating / minifying CSS and Javascript files and 3. automatically perform unit testing and constantly check for syntax errors.
+- Gulp is a toolkit that automates painful or time-consuming tasks in the development process. Tasks such as removing metadata from images, concatenating / minifying CSS and Javascript files and automatically perform unit testing and constantly check for syntax errors were done using Gulp.
 - Due to the mobile-first approach of modern web apps, the Bootstrap framework is the tool that most developers use to add responsiveness to their applications. Bootstrap was used to make ever component adapt to various screen sizes.
+- React was mainly used for organizing purposes.
 - Amazon Web Services was used to host the web app, store the project files on the cloud and provide a secure / encrypted connection between the client and server.
 
 ## Notable Features
