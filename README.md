@@ -53,6 +53,25 @@ Below is a list of some of the modern development tools that were used and their
 - React was mainly used for organizing purposes.
 - Amazon Web Services was used to host the web app, store the project files on the cloud and provide a secure / encrypted connection between the client and server.
 
+``` ruby
+function App() {
+  return (
+    <div className="App">
+      <Navbar/>
+      <Carousel/>
+      <Service/>
+      <Packages/>
+      <History/>
+      <Gallery/>
+      <FAQ/>
+      <Location/>
+      <Contact/>
+      <Footer/>
+    </div>
+  );
+}
+```
+
 ## Notable Features
 All places where hours appear on the web app are generated dynamically. A Javascript date object is generated when the page is opened up and depending on the current date it determines whether to display the hours for the Summer league season or the Fall league season. Also in the navbar it tells you if the shop is currently open, closed or the next time it's open, depending on the current season, day of the week and time. 
 
