@@ -50,8 +50,10 @@ Software Used
 Below is a list of some of the modern development tools that were used and their purposes:
 - Gulp is a toolkit that automates painful or time-consuming tasks in the development process. Tasks such as removing metadata from images, concatenating / minifying CSS and Javascript files and automatically perform unit testing and constantly check for syntax errors were done using Gulp.
 - Due to the mobile-first approach of modern web apps, the Bootstrap framework is the tool that most developers use to add responsiveness to their applications. Bootstrap was used to make ever component adapt to various screen sizes.
-- React was mainly used for organizing purposes.
 - Amazon Web Services was used to host the web app, store the project files on the cloud and provide a secure / encrypted connection between the client and server.
+
+## Structure of Web App
+A modern tool for web development is React. Instead of having one large HTML file with hundreds of line of code, React allows you to create individual components which can be imported into a central location.
 
 ``` ruby
 function App() {
@@ -84,7 +86,7 @@ Download the project folder and make sure you have [NodeJS](https://nodejs.org/e
 
 In [Visual Code Studio](https://code.visualstudio.com) open up a terminal, go to the root directory then type in the following command to install the required dependencies:
 
-```
+``` 
 npm install
 ```
 #### Step 3. Run Development Server
