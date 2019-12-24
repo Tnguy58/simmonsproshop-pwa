@@ -3,7 +3,7 @@
 ## [www.SimmonsProShop.com](https://www.simmonsproshop.com) 
 
 ## Introduction
-www.SimmonsProShop.com is a ReactJS progressive web app that I developed for Simmons (Bowling) Pro Shop. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of developing the app from scratch, which entails gathering information such as the various bowling services, the history of the shop, Q&A, etc., taking all of the pictures that appear on the app and handwriting the descriptions of their bowling services with the guidance of Brian (the owner) and his acquaintances. 
+www.SimmonsProShop.com is a ReactJS Single-Page-Application (SPA) that I developed for Simmons (Bowling) Pro Shop. The web app conveys specific and helpful information about the products and services that Simmons Pro Shop provides such as ball drilling, ball baking, etc. I had the task of developing the app from scratch, which entails gathering information such as the various bowling services, the history of the shop, Q&A, etc., taking all of the pictures that appear on the app and handwriting the descriptions of their bowling services with the guidance of Brian (the owner) and his acquaintances. 
 
 ## Motivation
 To gain experience building a progressive web app while also learning more about the sport of bowling. 
